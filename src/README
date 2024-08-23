@@ -1,0 +1,67 @@
+Tested in Julia version 1.9.3
+
+Package version:
+
+  [0bf59076] AdvancedHMC v0.6.1
+⌃ [b5ca4192] AdvancedVI v0.2.4
+⌃ [fbb218c0] BSON v0.3.7
+  [0a1fb500] BlockDiagonals v0.1.42
+⌃ [13f3f980] CairoMakie v0.11.9
+⌃ [d3e213a1] ColorSchemeTools v1.5.0
+  [35d6a980] ColorSchemes v3.24.0
+⌃ [3da002f7] ColorTypes v0.11.4
+  [5ae59095] Colors v0.12.10
+⌃ [b0b7db55] ComponentArrays v0.15.6
+  [717857b8] DSP v0.7.9
+⌅ [2445eb08] DataDrivenDiffEq v1.3.0
+⌅ [82cc6244] DataInterpolations v4.6.0
+⌅ [927a84f5] DelaunayTriangulation v0.8.12
+  [8bb1440f] DelimitedFiles v1.9.1
+⌅ [459566f4] DiffEqCallbacks v2.35.0
+⌃ [aae7a2af] DiffEqFlux v3.3.0
+⌃ [0c46a032] DifferentialEquations v7.11.0
+⌃ [ced4e74d] DistributionsAD v0.6.53
+⌅ [7da242da] Enzyme v0.11.11
+  [cf66c380] FastChebInterp v1.2.0
+⌃ [442a2c76] FastGaussQuadrature v1.0.1
+⌅ [6a86dc24] FiniteDiff v2.22.0
+⌅ [587475ba] Flux v0.13.17
+  [f6369f11] ForwardDiff v0.10.36
+⌃ [5c1252a2] GeometryBasics v0.4.10
+⌃ [4138dd39] JLD v0.13.3
+  [033835bb] JLD2 v0.4.46
+  [3db4a2ba] LegendrePolynomials v0.4.4
+⌅ [b2108857] Lux v0.5.13
+  [23992714] MAT v0.10.6
+⌃ [c7f686f2] MCMCChains v6.0.4
+⌅ [961ee093] ModelingToolkit v8.73.2
+  [09606e27] ODEInterfaceDiffEq v3.13.3
+⌃ [429524aa] Optim v1.7.8
+⌃ [7f7a1694] Optimization v3.19.3
+⌃ [253f991c] OptimizationFlux v0.1.5
+⌃ [36348300] OptimizationOptimJL v0.1.14
+⌃ [42dfb2eb] OptimizationOptimisers v0.1.6
+⌅ [1dea7af3] OrdinaryDiffEq v6.59.3
+  [d96e819e] Parameters v0.12.3
+⌃ [91a5bcdd] Plots v1.39.0
+⌅ [d236fae5] PreallocationTools v0.4.13
+  [49802e3a] ProgressBars v1.5.1
+⌃ [37e2e3b7] ReverseDiff v1.15.1
+⌅ [1ed8b502] SciMLSensitivity v7.51.0
+  [de6bee2f] SimpleChains v0.4.6
+⌃ [860ef19b] StableRNGs v1.0.1
+⌃ [2913bbd2] StatsBase v0.34.2
+⌃ [f3b207a7] StatsPlots v0.15.6
+⌃ [c3572dad] Sundials v4.20.1
+⌃ [fce5fe82] Turing v0.30.0
+  [3a884ed6] UnPack v1.0.2
+  [e3e34ffb] VoronoiCells v0.4.0
+  [72f80fcb] VoronoiDelaunay v0.4.4
+  [e5f3e3e8] VoronoiGraph v0.2.2
+⌃ [e88e6eb3] Zygote v0.6.68
+  [37e2e46d] LinearAlgebra
+  [de0858da] Printf
+  [9a3f8284] Random
+  [9e88b42a] Serialization
+  [2f01184e] SparseArrays
+  [10745b16] Statistics v1.9.0
