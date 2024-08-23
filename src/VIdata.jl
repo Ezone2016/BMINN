@@ -3,8 +3,7 @@ using Plots.PlotMeasures
 using DataInterpolations
 
 # Read the data from the file
-data = readdlm("./exp/cell1_20.txt")[2:end-1,1:3]
-# data = readdlm("../exp/cell1_20.txt")[2:end-1,1:3]
+data = readdlm("../cell1_20.txt")[2:end-1,1:3]
 function time_to_seconds(time_strings::Vector{String})
     seconds_array = Int[]
     for time_string in time_strings
